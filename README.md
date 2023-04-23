@@ -20,7 +20,7 @@ This is a YouTube clone built using React JS that mimics the core features of Yo
 * Run npm install to install the required dependencies.
 * Create a .env file in the root directory of the project and add your YouTube API key as REACT_APP_YOUTUBE_API_KEY=<your_api_key>.
 * Run npm start to start the application.
-##Usage
+## Usage
 * Open the application in your web browser at http://localhost:3000.
 * You can navigate through the different pages using the navigation bar at the top of the page.
 * Use the search bar to search for videos by entering keywords.
